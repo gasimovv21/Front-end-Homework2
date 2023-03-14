@@ -1,0 +1,129 @@
+body{
+    background-color: #F0F2F5;
+}
+
+div{
+    width: 370px;
+    height: 755px;
+    background-color: #FFFFFF;
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+}
+
+hr{
+    width: 100%;
+}
+
+h1{
+    width: 95%;
+    text-align: left;
+}
+p{
+    width: 95%;
+    text-align: left;
+    font-size: small;
+    color: #606770;
+}
+
+#fistname{
+    width: 40%;
+    height: 35px;
+    border-radius: 3.5px;
+    border: 0.2px solid #DDDFE2;
+    background-color: #F5F6F7;
+}
+
+#lastname{
+    width: 50%;
+    height: 35px;
+    border-radius: 3.5px;
+    border: 0.2px solid #DDDFE2;
+    background-color: #F5F6F7;
+}
+
+#signup{
+    font-weight: 600;
+    font-size: medium;
+    width: 50%;
+    height: 40px;
+    color: white;
+    background-color: #42B72A;
+    border: none;
+    border-radius: 3.5px;
+}
+
+#mobilemail{
+    width: 93%;
+    height: 35px;
+    border-radius: 3.5px;
+    border: 0.2px solid #DDDFE2;
+    background-color: #F5F6F7;
+}
+
+#newpass{
+    width: 93%;
+    height: 35px;
+    border-radius: 3.5px;
+    border: 0.2px solid #DDDFE2;
+    background-color: #F5F6F7;
+}
+
+#months{
+    width: 30%;
+    height: 35px;
+    border-radius: 3.5px;
+    border: 0.2px solid #DDDFE2;
+}
+
+#days{
+    width: 30%;
+    height: 35px;
+    border-radius: 3.5px;
+    border: 0.2px solid #DDDFE2;
+}
+
+#years{
+    width: 30%;
+    height: 35px;
+    border-radius: 3.5px;
+    border: 0.2px solid #DDDFE2;
+}
+
+#femalelabel{
+    border-radius: 3.5px;
+    border: 0.2px solid #DDDFE2;
+    font-size: medium;
+}
+
+#malelabel{
+    border-radius: 3.5px;
+    border: 0.2px solid #DDDFE2;
+    font-size: medium;
+}
+
+#customlabel{
+    border-radius: 3.5px;
+    border: 0.2px solid #DDDFE2;
+    font-size: medium;
+}
+
+#gender{
+    width: 93%;
+    height: 35px;
+    border-radius: 3.5px;
+    border: 0.2px solid #DDDFE2;
+}
+
+#genderOPT{
+    width: 93%;
+    height: 35px;
+    border-radius: 3.5px;
+    border: 0.2px solid #DDDFE2;
+    background-color: #F5F6F7;
+}
+
+#linkInP{
+    color: #385898;
+    text-decoration: none;
+}

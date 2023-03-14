@@ -1,0 +1,63 @@
+body{
+    background-color: #F0F2F5;
+}
+
+div{
+    width: 355px;
+    height: 347px;
+    background-color: #FFFFFF;
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+}
+
+hr{
+    width: 95%;
+}
+
+p{
+    font-size: small;
+}
+
+#emailorphone{
+    width: 90%;
+    height: 40px;
+    border-radius: 5px;
+    border: 0.2px solid #DDDFE2;
+}
+
+#pass{
+    width: 90%;
+    height: 40px;
+    border-radius: 5px;
+    border: 0.2px solid #DDDFE2;
+}
+
+#logbutton{
+    font-weight: bold;
+    font-size: large;
+    width: 93%;
+    height: 38px;
+    color: white;
+    background-color: #1877F2;
+    border: none;
+    border-radius: 5px;
+}
+
+#fpass{
+    text-align:right;
+    text-decoration: none;
+    font-size: 15px;
+    color: #18A4F7;
+}
+
+#createacc{
+    font-weight: 600;
+    font-size: medium;
+    width: 50%;
+    height: 40px;
+    color: white;
+    background-color: #42B72A;
+    border: none;
+    border-radius: 4px;
+}
